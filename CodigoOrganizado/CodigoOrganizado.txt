@@ -1,0 +1,16 @@
+Se refiere a como esta ordenado el codigo en el sistema de archivos y directorios, estamos tratando de lograr que todo este ordenado.
+
+Un ejemplo de algo que esta mal podria ser: una archivo llamado funciones y adentro no tiene funciones, por lo general buscaremos agrupar aarchivos que tengan contenidos similares en un solo directorio, por ejemplo en php moderno tenemos esta estructura:
+
+/public
+Contiene todos los archivos que son accesibles desde afuera del servidor
+/src
+Todos los archivos propios de nuestro proyecto, codigo que escribimos nosotros
+/tests
+Pruebas unitarias o el tipo de pruebas que usemos
+/vendor
+Todos los archivos de librerias de terceros.
+
+
+Esto es solo una convención no una  obligación pero nos puede ayudar a guiarnos a la hora de realizar nuestros proyectos, para no perder tiempo pensando en cosas que no son realmente importantes.
+

@@ -1,0 +1,11 @@
+Las personas que se beneficiaran por tener un codigo bien escrito seran:
+
+1. Tú del futuro
+Porque cuando retomes un proyecto que dejste de lado hcae mucho tiempo si todo esta mal escrito te sera muy  dificl volver a entender cada cosa, porque esta estructurado de esa manera, y te tomara más tiempo modificarlo.
+
+2. Tus compañeros
+Siempre que se trabaja en equipo tener codigo bien escrito ayuda mucho a la persona que viene atras de ti
+
+3. Tu cliente
+Porque al tener el codigo mejor escrito sera mucho mas facil y economico hacer el mantenimiento evolutivo de la aplicación y a su vez habran menos interrupciones en la tareas cotidianas en este software
+

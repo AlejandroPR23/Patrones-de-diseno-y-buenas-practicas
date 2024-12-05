@@ -1,0 +1,5 @@
+El patron factory se trata de un patron creacional, nos ayuda en  la creacion de nuevas instancias de objetos
+
+El patron se usa cuando la creacion de un objeto es muy compleja.
+
+

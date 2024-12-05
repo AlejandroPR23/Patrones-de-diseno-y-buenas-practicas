@@ -1,0 +1,22 @@
+Testing automatizado se trata de eescribir porgramas que puedan probar nuestro software de forma automatica
+
+Cosas que no se pueden testear:
+-Es comoda de usar
+- Es linda
+
+Tipos
+
+Unitarios
+Tomar cada unidad de software por separado, ayuda al refactoring, facil optimizacion y el codigo queda documentado
+
+Integracion
+Validar la interaccion entre componenetes individuales
+
+
+TDD
+
+Propone realizar las pruebas primero que todo, para eso 
+1.Escribimos un text que falle
+2. HAcer que el codigo funcione
+3. Eliminar la redundancia
+4. Repetir

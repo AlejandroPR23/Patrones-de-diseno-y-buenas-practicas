@@ -1,0 +1,2 @@
+La primera tecnica para tener un codigo de alta mantenibilidad, es el codigo modular, se trata de hacer codigo que este organizado en forma de pequeños bloques que puedan ser compuestos que en un unico bloque.
+

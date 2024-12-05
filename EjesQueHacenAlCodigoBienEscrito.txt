@@ -1,0 +1,24 @@
+Caracteristicas externas
+Cosas que observan los usuarios al interactuar con el software
+
+Aunque son muy importantes a la hora de esclarecer la calidad del software, nos orientaremos en las internas.
+
+Caracteristicas internas
+Solo estaran visibles al analizar el codigo:
+
+Se pueden dividir en:
+
+Legibilidad
+
+Que tan facil es interpretar lo que el codigo dice, cosas que afectan esto son la afalta de indentacion
+
+Mantenibilidad
+
+Cuanto esfuerzo supondria adaptar el codigo a nuevos requerimientos
+
+Testeabilidad
+
+Cuanto esfuerzo supondra realizar pruebas sobre este codigo
+
+
+

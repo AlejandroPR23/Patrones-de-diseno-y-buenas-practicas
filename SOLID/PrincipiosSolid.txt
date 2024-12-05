@@ -1,0 +1,46 @@
+El principio SOLID
+Es uno de los cinco principios basicos de la POO
+
+Ayudan a crear software mantenible en el tiempo
+
+La idea es siempre intentar aplicar estos principios, o una ver desarrollado volver a ver con estos principios a la mano para hacerlo más robusto con el tiempo.
+
+S: Single responsibility principle = Principio de responsabilidad unica
+O: Open closed principle = principio de abierto y cerrado
+L: Liskov substitution principle = Principio de sustitucion
+I: interface Segregation prnciple = principio de segregacion de interface
+D: Dependency inversion principle = principio de inversion de dependencia
+
+1.Single Responsability Principle
+
+Una clase deberia tener un unico objetivo, muy consiso y acotado, se le conoce tambien alta cohesion, la ventaja de aplicarlo es que hace muy facil detectar los problemas que surgen, ya que como cada clase hace una unica cosa ya sabremos quien fue el culpable, tener clases con un solo objetivo,nos facilita la mantinibilidad y  es más facil tomar esa clase y aplicarla a otro contexto,  siempre debemos tratar de evitar las clases que hacen muchas cosas al mismo tiempo.
+
+2.Open Closed Principle
+
+Nos propone una forma de estructurar nuestras clases de modo de poder adaptarse a nuevos requerimientos, la idea es que si se nos aparece un nuevo requerimiento similar a otro que ya teniamos, simplemente deberiamos crear el nuevo componente  y este se adaptaria sin ningun problema, esto es fundamental en softwares de media o gran tamaño, porque hacer una modificacion en uno de estos software es un proyecto de mucho riesgo y  por otro lado si no lo respetamos nos encontraremos con metodos muy grandes, y no es complicado implementarlo.
+
+La clase debe quedar abierta para añadir nuevos features, pero que esos nuevos features no impliquen modificar el codigo que ya estaba, es decir todo el codigo nuevo debe  adaptarse automaticamente con el codigo viejo que ya teniamos y no debe implicar modificarlo.
+
+Abierto a nuevos features, cerrado a modificación de features antiguos
+
+3.Liskov Subtitution principle
+
+Establece que en una relación de herencia cualquier situacion en que se necesite utilizar un objeto de la clase padre, debe poder recibir un obejto de cualquier clase hija sin conocer sus diferencias.
+
+Para que funcione sin problema se deben cumplir las siguientes condiciones:
+
+- El cliente debe usar metodos de la clase padre unicamente
+- La clase hija no debe alterar el comportamiento de los metodos de la clase padre
+
+Cuando sucede esto deberiamos preguntarnos si la relacion de herencia es tal.
+
+4.Interface Segregation Principle
+
+Este principio dice como estructurar nuestras interfaces de modo que a la hora de que una clase necesite interpretar una interface no se le exiga implementar metodos que no necesita o no le son propios.
+
+5. Dependency inversion principle
+
+Este principio nos ayuda a definir como se vinculan las diferentes clases que tiene que darle servicio a otras, hay clases de alto nivel y de bajo, las de alto son las que tienen que ver con la logica del programa, las de bajo ayudan a las de alto nivel para que lleven su cometido a cabo.
+
+Debemos reducir las dependencias de los modulos que existen en nuestra apliación.
+Los modulos no deben ser los encargados de crear los objetos con los que trabajan, sino que alguien más debe crearlos y darselos cuando lo necesiten.

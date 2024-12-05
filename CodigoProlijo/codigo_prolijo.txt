@@ -1,0 +1,25 @@
+El primer obstaculo de la legibildad es el codigo no prolijo.
+
+La solución a este problema es agregar inddentaciones a nuestras paginas web
+
+Otra cosa a tener en cuenta es agregar  la llave inicial {} justo despues del parentesis de una condición
+ver ej1.php
+
+
+No cerrar con llaves el if por ejemplo en condicionales tipo if else: ver ej.2.php
+
+
+Un estandar de codificación son una serie de reglas que te dicen como debes escribir tu codigo.
+beneficios de seguir uno:
+1. Generas codigo claro y consistente
+2. Evita que pierdas tiempo en decisiones triviales
+
+
+Tips:
+
+Define un estandar: Piensalo una vez y dejalo por escrito o usa uno ya definido
+
+Respetalo: Haz un esfuerzo por añadir el estandar en ti día a día
+
+Apoyate en algun linter: Esta sencilla herramienta te ayudara a incorporar buenas practicas
+

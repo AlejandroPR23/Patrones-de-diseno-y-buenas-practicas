@@ -1,0 +1,5 @@
+El hardcoding es la practica de escribir valores literales en vez de modificadores,, esto tiene un problema a futuro y es que cuando deban ser modificados, el unico modo de hacerlo es impactar en el codigo y desestabilizar un sistema completo.
+
+"Las cosas que estan escritas en piedra son dificiles de modificar"
+
+Una recomendación es tener todos los valores que pueden ser estaticos en un archivo a parte por ejemplo un config.php, para cada que si en algun momento cambia el valor simplemente nos dirigimos a ese archivo y cambiamos l variable y ya en todo nuestro sistema se organizaria tambien.

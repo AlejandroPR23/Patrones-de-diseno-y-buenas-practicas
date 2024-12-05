@@ -1,0 +1,21 @@
+Patrones de diseño
+
+son soluciones conceptuales que se pueden aplicar a la hora de crear nuestras clases, basicamente existen 3 tipos de patrones:
+
+1. Creacion
+
+Como se crean nuevas instancias de los objetos
+
+2. Estructurales
+
+Nos dicen como estructurar nuestras clases
+
+3. Comportamiento
+
+Nos dicen como deben comportanse nuestros objetos
+
+esto no se trata de codigo se trata de ayuda sobre como pensar nuestra aplicacion, no son aplicables siempre, nos ayudan a no iniciar en hoja en blanco, y debemos tener cuidado con la paternitis que es cuando conocemos los patrones y buscamos aplicarlos en todos nuestros proyectos lo que puede traer varios problemas
+
+Singleton (Patron de creacion y comportamiento)
+
+La idea es tener una clase  con solo una instancia a lo largo de toda la aplicacion este patron se utiliza para optimizar recursos.

@@ -1,0 +1,3 @@
+La idea es poder escribir codigo que sea posible de utilizar en varias ocasiones, para eso debemos que el codigo sea muy claro con su objetivo y se pueda aplicar a diferentes escenarios, en la practica se logra realizando funciones.
+
+El copypast es el peor enemigo ya que cuanod el codigo se va copiando y pegando, tal vez un error que estaba oculto se ira arrastrando a diferentes partes del codigo, y nunca sabremos si lo solucionamos completamente o si esta todavia en algun otro lado de nuestro software

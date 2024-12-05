@@ -1,0 +1,2 @@
+Patron de comportamiento se usa cuando hay una operacion compleja y debe ser usada e varios lugares.
+

@@ -1,0 +1,3 @@
+Un efecto colateral es algo que sucede más alla del codigo que se esta haciendo, un ejemplo de estoes la modificacion de una variable global   
+
+Aunque es muy dificl evitar los efectos colaterales, ddebemos ser conscientes de cuando las estamos utilizando, un tip con esto es no utilizar nunca jamas variables globales.

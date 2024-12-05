@@ -1,0 +1,4 @@
+Uno de los mayores problemas a la hora de programar es el elgir nombres para nuestros identificadores
+
+pero que es un identificador? es un nombre que no existe en el lenguaje de programación pero lo crearemos nosotros por ejemplo: una variable, Funciones, clases, modulos, componentes.
+
